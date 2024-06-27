@@ -23,7 +23,7 @@ Parallel to that, I have been playing violin professionally in orchestras from B
   
 ## Skills
 - Programming Languages: Python, Matlab, C++
-- Data Science: Pandas, NumPy, Scikit-learn, Seaborn,NLP, web scraping, sentiment analysis.
+- Data Science: Pandas, NumPy, Scikit-learn, Seaborn,NLP, web scraping, sentiment analysis, etc.
 
 ## Contact
 - Email: renzotorrecuso@gmail.com
