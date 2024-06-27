@@ -4,7 +4,7 @@ Thanks for passing by.
 
 I am thrilled to live in this time in history where we can combine robust mathematical tools with high computational power to build models that surpass our sensory limitations in perceiving reality.
 
-For the past 12 years, I have been analyzing our reality decoder, the brain, using EEG, TMS, and resting-state fMRI.
+For the past 12 years, I have been analyzing our reality decoder, the brain, using EEG, taks and resting-state fMRI.
 Aiming to go further in the pursuit of understanding complex problems, I have been also building predictive models with datasets from other complex areas such as promoting internet traffic for websites, financial inclusion, real estate, and written reports about psychedelic intake.
 
 Parallel to that, I have been playing violin professionally in orchestras from Brazil and recently in Leipzig, where I have been living since 2019.
