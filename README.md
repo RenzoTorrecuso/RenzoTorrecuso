@@ -1,18 +1,18 @@
 Hi, 
 
-Thanks for passing by.
+Thanks for stopping by.
 
-I am thrilled to live in this time in history where we can combine robust mathematical tools with high computational power to build models that surpass our sensory limitations in perceiving reality.
+I'm excited to live in an era where we can merge robust mathematical tools with high computational power to build models that transcend our sensory limitations in perceiving reality.
 
-For the past 12 years, I have been analyzing our reality decoder, the brain, using EEG, taks and resting-state fMRI.
-Aiming to go further in the pursuit of understanding complex problems, I have been also building predictive models with datasets from other complex areas such as promoting internet traffic for websites, financial inclusion, real estate, and written reports about psychedelic intake.
+Since 2011, I have been analyzing our reality decoder, the brain, using EEG, TMS, and resting-state fMRI. To improve my tools for complex problems understanding, I've also been developing predictive models with datasets from diverse fields such as internet traffic promotion, financial inclusion, real estate, and written reports on psychedelic intake.
 
-Parallel to that, I have been playing violin professionally in orchestras from Brazil and recently in Leipzig, where I have been living since 2019.
+In parallel, I have been playing the violin professionally in orchestras in Brazil and, since 2019, in Leipzig, where I currently reside.
 
 
-## My current Projects
+## My current Project.
 - **Project 1**: Predictive model for Sentment Analysis & Ayahuasca intake.
    I am enjoying a lot this project. So far I have extracted data from nifti files into correlation matrices, found the most relevant connections, integrated improvements to sentiment analysis packages, built models predicting sentiment valence from resting state fMRI, and built a model that incorporate sentiment valence as a feature together with most relevant brain conexions in order to predict Ayahuasca intake.
+  Soon will upload everything.
 
 
 ## My concluded Projects
