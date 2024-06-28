@@ -10,7 +10,7 @@ In parallel, I have been playing the violin professionally in orchestras in Braz
 
 
 ## My current Project.
-- **Project 1**: Predictive model for Sentment Analysis & Ayahuasca intake.
+- **Project 1**: Predictive models for Sentment Analysis & Ayahuasca intake.
   
    I am enjoying a lot this project. So far I have extracted data from nifti files into correlation matrices, found the most relevant connections, integrated improvements to sentiment analysis packages, built models predicting sentiment valence from resting state fMRI, and built a model that incorporate sentiment valence as a feature together with most relevant brain conexions in order to predict Ayahuasca intake.
   Soon will upload everything.
